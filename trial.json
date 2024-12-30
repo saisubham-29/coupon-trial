@@ -1,7 +1,25 @@
 [
-    "COUPON123",
-    "DISCOUNT50",
-    "SAVE20",
-    "FREEDELIVERY",
-    "NEWYEAR2024"
+   [
+    {
+        "coupon": "COUPON123",
+        "status": "not used"
+    },
+    {
+        "coupon": "DISCOUNT50",
+        "status": "not used"
+    },
+    {
+        "coupon": "SAVE20",
+        "status": "used"
+    },
+    {
+        "coupon": "FREEDELIVERY",
+        "status": "not used"
+    },
+    {
+        "coupon": "NEWYEAR2024",
+        "status": "used"
+    }
+]
+
 ]
